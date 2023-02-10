@@ -1,0 +1,59 @@
+#row1 {
+	margin-top: 18px;
+}
+
+
+.header {
+	font-size: 50px;
+	font-family: Georgia, serif;
+	font-weight: bold;
+}
+
+.date{
+	font-size: 14px;
+	font-family: Helvetica, sans-serif;
+}
+
+
+.img{
+	max-width: 100%;
+}
+
+.img_caption{
+	font-family: Times New Roman, serif;
+	color: #808080;
+}
+
+.author{
+	font-family: Helvetica, sans-serif;
+	font-size:14px;
+	font-weight: bold;
+	
+
+}
+
+.body{
+	font-family: Baskerville, sans-serif;
+	font-size: 20px;
+}
+
+iframe{
+	margin-top: 10px;
+	margin-bottom:24px;
+}
+
+a:link{
+	color: #003F52
+}
+
+a:hover{
+	color: #152238;
+}
+
+a:visited{
+	color: #3A3370;
+}
+
+
+
+
